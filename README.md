@@ -1,7 +1,7 @@
 # Trojan
 This tool is will create a .exe file which will send you all the information of victim once the file executes! A perfect tool to generate a trojan
-![Screenshot (224)](./assest/Screenshot%202024-01-16%20195001.png)
-![Screenshot (274)](./assest/Screenshot%202024-01-16%20194846.png)
+![Screenshot (224)](./assest/Screenshot%202024-01-16%20194846.png)
+![Screenshot (274)](./assest/Screenshot%202024-01-16%20194757.png)
 
 */.>  
 </> This tool can be configured in any way!
@@ -13,7 +13,7 @@ This tool is will create a .exe file which will send you all the information of 
 * To use it without any errors!
 1. Create a fake gmail account and allow insecure apps.
 2. Use this gmail here: 
-![Screenshot (225)](./assest/Screenshot%202024-01-16%20194757.png)
+![Screenshot (225)](./assest/Screenshot%202024-01-16%20195001.png)
 3. If you are using Windows then it will be easier to create .exe file
 
 # Usage
